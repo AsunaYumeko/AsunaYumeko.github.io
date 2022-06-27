@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: AsunaYumeko/test/sitemap.xml
